@@ -11,7 +11,6 @@ function App() {
         <Navbar />
         <Jumbotron />
         <br></br>
-        <Card />
         <Score />
     </div>
   );

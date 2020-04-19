@@ -1,4 +1,5 @@
 import React, {Component} from "react";
+import Card from "../components/card";
 import "../components/Score.css";
 import images from "../cardimage.json";
 
@@ -6,6 +7,7 @@ class Score extends Component{
  
   state ={
     images,
+    message: "Click Any Image to begin!",
     score:0,
     topScore:0
   };
@@ -48,10 +50,31 @@ class Score extends Component{
   render() {
 
     return (
+      <div>
+      <div class="container">
+          <div class="row">
+            {this.state.images.map(image => (
+              <Card
+                key={image.id}
+                id={image.id}
+                name={image.name}
+                clicked={image.clicked}
+                image={image.image}
+                handleClick={this.handleClick}
+                />
+            ))}
+          </div>
+      </div>
+      
       <nav class="navbar fixed-bottom navbar-light bg-light">
-        <p class="score">Score: {this.state.score} | Top Score: {this.state.topScore}</p>
+        <p class="score"> Score: {this.state.score} | Top Score: {this.state.topScore}</p>
+          <p>{this.state.message}</p>
       </nav>
+
+      </div>
      
+
+       
     );
 
   }

@@ -2,6 +2,9 @@
    width: 80%;
    border-radius: 200px;
    box-shadow: 10px 10px 30px rgba(68, 150, 182, 0.7);
+   padding:0px;
+   margin:0px;
+   margin-bottom: 20px;
 }
 
 .card:hover{
@@ -15,7 +18,10 @@
 .card-img-top{
     border-radius: 200px;
 }
-
+.card-body{
+    padding:10px;
+    margin: 10px
+}
 /* font-family: 'Poiret One', cursive;
 font-family: 'Reenie Beanie', cursive;
 font-family: 'Major Mono Display', monospace;
