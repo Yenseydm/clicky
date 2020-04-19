@@ -1,17 +1,15 @@
 import React from "react";
 import "../components/card.css";
 
-function Card() {
+function Card(props) {
   return (
    <div class="container">
 
-    <div class="col-md-4">
-    <div class="card">
+    <div class="card" key={props.id} onClick={() => props.cardClick(props.id, props.clicked)}>
       <div class="card-body">
-      <img src="" class="card-img-top" alt="..." />
+      <img id={props.name} src={props.image} class="card-img-top" alt={props.name} />
        </div>
     </div>
-  </div>
   
    </div>   
   );
