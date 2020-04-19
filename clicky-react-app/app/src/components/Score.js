@@ -1,10 +1,11 @@
 import React from "react";
+import "../components/Score.css";
 
 function Score() {
   return (
     <nav class="navbar fixed-bottom navbar-light bg-light">
-  <a class="navbar-brand" href="#">Score: n/a | Top Score: n/a</a>
-</nav>
+      <p class="score">Score: n/a | Top Score: n/a</p>
+    </nav>
   );
 }
 

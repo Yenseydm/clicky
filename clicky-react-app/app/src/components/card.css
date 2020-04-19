@@ -1,7 +1,17 @@
 .card{
    width: 80%;
    border-radius: 200px;
+   box-shadow: 10px 10px 30px rgba(68, 150, 182, 0.7);
 }
+
+.card:hover{
+    box-shadow: 10px 10px 30px rgba(209, 137, 137, 0.7);
+}
+
+.card:active{
+    box-shadow: 10px 10px 30px rgba(255, 234, 49, 0.7);
+}
+
 .card-img-top{
     border-radius: 200px;
 }

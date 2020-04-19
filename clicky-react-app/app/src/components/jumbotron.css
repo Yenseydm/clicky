@@ -1,0 +1,25 @@
+.jumbotron{
+    font-family: 'Annie Use Your Telescope', cursive;
+    background-image: url("https://images.unsplash.com/photo-1524535412680-21809efc44e7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2563&q=80");
+}
+
+.display-4{
+    font-size: 100px;
+    color: rgb(255, 37, 121);
+    text-shadow:2px 2px 2px  whitesmoke;
+}
+
+.lead{
+    font-size: 40px;
+    color:rgb(28, 13, 82);
+}
+
+.begin{
+    color:rgb(28, 13, 82);
+}
+
+
+/* font-family: 'Poiret One', cursive;
+font-family: 'Reenie Beanie', cursive;
+font-family: 'Major Mono Display', monospace;
+font-family: 'Annie Use Your Telescope', cursive; */

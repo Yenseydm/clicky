@@ -1,0 +1,10 @@
+p {
+   font-size: 30px;
+   color: rgb(255, 37, 121);
+   font-family: 'Reenie Beanie', cursive;
+   margin-bottom: 0px;
+}
+
+nav{
+   box-shadow: 20px 20px 20px rgba(245, 188, 188, 0.5);
+}
