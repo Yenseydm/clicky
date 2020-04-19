@@ -8,7 +8,7 @@ function Card() {
     <div class="col-md-4">
     <div class="card">
       <div class="card-body">
-      <img src="https://scoopsquare24.b-cdn.net/wp-content/uploads/2019/12/geoffrey-paschel-has-a-face.png" class="card-img-top" alt="..." />
+      <img src="" class="card-img-top" alt="..." />
        </div>
     </div>
   </div>

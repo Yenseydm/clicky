@@ -1,0 +1,105 @@
+[
+    {
+        "id": 1,
+        "name": "Geoffrey" ,
+        "clicked": false,
+        "image": "https://scoopsquare24.b-cdn.net/wp-content/uploads/2019/12/geoffrey-paschel-has-a-face.png"
+    },
+    {
+        "id": 2,
+        "name": "Big Ed" ,
+        "clicked": false,
+        "image": "https://www.tvinsider.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-20-at-7.35.15-PM-1536x1028.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Angela " ,
+        "clicked": false,
+        "image": "https://web.realitytvworld.com/imgen/e-26679-1600-1200.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Soja boy" ,
+        "clicked": false,
+        "image": "https://celebratingthesoaps.com/wp-content/uploads/2020/03/90-day-fiance-Usman-Umar1.png"
+    },
+    {
+        "id": 4,
+        "name": "Baby gurl lisa" ,
+        "clicked": false,
+        "image": "https://twitter.com/90DayFianceCast/status/1235599364875116545/photo/1"
+    },
+    {
+        "id": 5,
+        "name": "Danielle" ,
+        "clicked": false,
+        "image": "https://content.forums.previously.tv/monthly_2016_10/download.jpeg.d2f14e69d4fee48a60b12e3717815949.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Darcey" ,
+        "clicked": false,
+        "image": "https://d.newsweek.com/en/full/1057445/darcey.webp?w=790&f=21fb245ea4650edf96eac84dddb2b77a"
+    },
+    {
+        "id": 7,
+        "name": "Tom" ,
+        "clicked": false,
+        "image": "https://soapdirt.com/wp-content/uploads/2019/10/90-day-fiance-tom-brooks-before-the-90-days-8945.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Nicole" ,
+        "clicked": false,
+        "image": "https://s.yimg.com/ny/api/res/1.2/mTRqyMEWCzNPI4fHjI3UJA--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9NjE4O2g9NDEy/http://media.zenfs.com/en_US/News/TheWrap/821790_Day_Fiance039_Nicole8217s_Whole-1ee45e2aa9e1304d79d30ae803f7a3a5"
+    },
+    {
+        "id": 9,
+        "name": "Ash" ,
+        "clicked": false,
+        "image": "https://entertainmentchronicle.com/wp-content/uploads/2020/03/90-Day-Fiance-Ash-Naeck.jpg"
+    },
+    {
+        "id": 10,
+        "name": "David" ,
+        "clicked": false,
+        "image": "https://i.redd.it/wsc7hg66w9311.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Annie" ,
+        "clicked": false,
+        "image": "https://s17077.pcdn.co/wp-content/uploads/2018/07/annie-90-day-fiance.jpgs"
+    },
+    {
+        "id": 12,
+        "name": "Rosemarie" ,
+        "clicked": false,
+        "image": "https://www.tvinsider.com/wp-content/uploads/2020/03/Screen-Shot-2020-03-17-at-3.44.06-PM-1014x570.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Chantel" ,
+        "clicked": false,
+        "image": "https://s17077.pcdn.co/wp-content/uploads/2018/07/chantel-cy.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Pedro" ,
+        "clicked": false,
+        "image": "https://s17077.pcdn.co/wp-content/uploads/2018/07/pedro-90-day-fiance-1.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Colt" ,
+        "clicked": false,
+        "image": "https://theworldnewsdaily.com/wp-content/uploads/2019/10/90-Day-Fianc%C3%A9-Did-Colt-Johnson-film-a-new-season-min.png"
+    },
+    {
+        "id": 16,
+        "name": "Corey" ,
+        "clicked": false,
+        "image": "https://the-hollywood-gossip-res.cloudinary.com/iu/s--95RqfBMc--/t_full/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1557258005/corey-on-90-day-fiance-the-other-way.png"
+    }
+    
+]

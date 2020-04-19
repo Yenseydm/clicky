@@ -8,13 +8,11 @@ import Score from "./components/Score";
 function App() {
   return (
     <div className="App">
-    <Navbar />
-    <Jumbotron />
-    <br></br>
-    <Card />
-    <Score />
-
-     
+        <Navbar />
+        <Jumbotron />
+        <br></br>
+        <Card />
+        <Score />
     </div>
   );
 }
