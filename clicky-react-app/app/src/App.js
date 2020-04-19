@@ -27,7 +27,7 @@ class App extends Component {
       if (clickedImg[0].clicked){
 
           score = 0;
-          message = "You've clicked me already!";
+          message = "OOooO Better luck next time buddy!";
 
           for (let i = 0; i < images.length ; i++){
             images[i].clicked = false;
@@ -86,7 +86,7 @@ class App extends Component {
       <div className="container">
           <div class="row">
             {this.state.images.map(image => (
-          <div onClick={() => this.cardClick(image.id)} className="card col-md-3">
+          <div onClick={() => this.cardClick(image.id)} className="card col-md-3 ">
               <Card
                 key={image.id}
                 id={image.id}
