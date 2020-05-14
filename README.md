@@ -11,6 +11,8 @@ The user's score is show on the bottom left as well as their top score. [Demo](h
 * CSS
 * Mongodb
 * express
+* React Js
+* Javscript
 
 ## Authors
 
